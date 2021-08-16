@@ -4760,7 +4760,7 @@ figcaption {
 	border-width: 1px;
 	border-color: #e2e3e9;
 	border-radius: 80px;
-	background-color: transparent;
+	background-color: white;
 	-webkit-transition: background-color 300ms ease, -webkit-transform 300ms ease;
 	transition: background-color 300ms ease, -webkit-transform 300ms ease;
 	transition: transform 300ms ease, background-color 300ms ease;
